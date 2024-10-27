@@ -1,6 +1,7 @@
 <h1>🧮 Simple Calculator Website</h1>
-<p>A sleek, modern calculator built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. Perform standard arithmetic calculations with ease!</p>
+
 <img src="https://i.ibb.co/zNcV120/image-4.png" alt="Calculator Screenshot">
+<p align="center"><strong>A sleek, modern calculator built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. Perform standard arithmetic calculations with ease!</strong></p>
 
 <h2>🚀 Overview</h2>
 <p>A user-friendly calculator that you can open directly in any web browser. It’s a practical tool to perform calculations on the go—no physical calculator or app required. Perfect for showcasing core web development skills!</p>
